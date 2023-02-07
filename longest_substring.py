@@ -1,3 +1,7 @@
+# https://leetcode.com/problems/longest-substring-without-repeating-characters
+# 56ms Runtime, 14mb Memory
+# Time Complexity = O(n)
+
 def longest_sub(string):
   char_dict = {}
   start = 0

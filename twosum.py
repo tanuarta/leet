@@ -1,25 +1,8 @@
+# https://leetcode.com/problems/longest-substring-without-repeating-characters
+# 56ms Runtime, 14mb Memory
+# Time Complexity = O(nlogn)
+
 from math import ceil
-
-# Initial Idea
-
-# 1. Sort nums - (merge sort) O(nlogn)
-# 2. Iterate through sorted nums
-# 3. For each number, find the difference with target sum, and do a binary search. If found, then the pair is found - O(nlogn)
-# Time complexity = nlog(n) + nlog(n) = O(nlogn)
-
-# I then realised an issue, because I sort the list, I don't have the original indices of the numbers
-# so although I the correct numbers, I couldn't create an output.
-
-# This resulted in the complete idea
-
-# 1. Make dictionary from list - O(n)
-# 2. Iterate through sorted nums - O(n)
-# 3. For each number, calculate difference and dictionary lookup the difference. If found then the pair is found. - O(1)
-# Time complexity = n + n = O(2n)
-
-# Complication with duplicates
-# Since the only time duplicates are useful is IF the duplicate is the twosum
-# We check if the sum of the duplicate is the solution when it comes up, if it doesn't we ignore the duplicate
 
 def twoSum(nums, target):
   numDict = {}
@@ -46,11 +29,31 @@ if __name__ == "__main__":
     main()
     
     
-    
-    
-    
-# Archived
 
+
+    
+# Initial Idea
+
+# 1. Sort nums - (merge sort) O(nlogn)
+# 2. Iterate through sorted nums
+# 3. For each number, find the difference with target sum, and do a binary search. If found, then the pair is found - O(nlogn)
+# Time complexity = nlog(n) + nlog(n) = O(nlogn)
+
+# I then realised an issue, because I sort the list, I don't have the original indices of the numbers
+# so although I the correct numbers, I couldn't create an output.
+
+# This resulted in the complete idea
+
+# 1. Make dictionary from list - O(n)
+# 2. Iterate through sorted nums - O(n)
+# 3. For each number, calculate difference and dictionary lookup the difference. If found then the pair is found. - O(1)
+# Time complexity = n + n = O(2n)
+
+# Complication with duplicates
+# Since the only time duplicates are useful is IF the duplicate is the twosum
+# We check if the sum of the duplicate is the solution when it comes up, if it doesn't we ignore the duplicate
+    
+# ===================================================== Archived ===================================================
 # Do a binary search on a list and return the index of the target
 def binarySearch(list, target):
   bottom_index = 0

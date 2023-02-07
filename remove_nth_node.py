@@ -1,4 +1,6 @@
-# Given the head of a linked list, remove the nth node from the end of the list and return its head.
+# https://leetcode.com/problems/remove-nth-node-from-end-of-list
+# 31ms Runtime, 14mb Memory
+# Time Complexity = O(n)
 
 class Node:
     def __init__(self, data):

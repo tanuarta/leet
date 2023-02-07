@@ -1,3 +1,7 @@
+# https://leetcode.com/problems/palindrome-number
+# 62ms Runtime, 13.8mb
+# Time Complexity = O(n)
+
 def palin(num):
   if num < 0:
     return False
