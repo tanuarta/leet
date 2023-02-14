@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/find-pivot-index
-# O(2n) = O(n)
+# Time Complexity = O(2n) = O(n)
 
 def pivot(arr):
 

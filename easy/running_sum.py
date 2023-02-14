@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/running-sum-of-1d-array
-# O(n)
+# Time Complexity = O(n)
 
 def runningSum(arr):
   
