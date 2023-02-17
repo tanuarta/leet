@@ -3,12 +3,12 @@
 # Time Complexity = O(n)
 
 class Node:
-    def __init__(self, data):
-        self.data = data
-        self.next = None
+  def __init__(self, data):
+      self.data = data
+      self.next = None
 
-    def __repr__(self):
-        return self.data
+  def __repr__(self):
+      return self.data
 
 def sol(head, n):
   prevNode = None
