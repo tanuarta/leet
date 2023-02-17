@@ -10,12 +10,12 @@
 6. [Isomorphic Strings](https://github.com/tanuarta/leet/blob/master/easy/iso_strings.py) - [LeetCode](https://leetcode.com/problems/isomorphic-strings/submissions/897512936/)
 7. [Merge Two Sorted Lists](https://github.com/tanuarta/leet/blob/master/easy/merge_list.py) - [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/submissions/899636834/)
 8. [Reverse Linked List](https://github.com/tanuarta/leet/blob/master/easy/reverse_list.py) - [LeetCode](https://leetcode.com/problems/reverse-linked-list/submissions/899681510/)
-10. [Middle of the Linked List](https://github.com/tanuarta/leet/blob/master/easy/middle_list.py) - [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/899681844/)
-12. [Linked List Cycle II](https://github.com/tanuarta/leet/blob/master/medium/list_cycle.py) - [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/submissions/899682205/)
-13. []() - [LeetCode]()
-14. []() - [LeetCode]()
+9. [Middle of the Linked List](https://github.com/tanuarta/leet/blob/master/easy/middle_list.py) - [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/899681844/)
+10. [Best Time to Buy and Sell Stock](https://github.com/tanuarta/leet/blob/master/easy/buy_sell.py) - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/899661686/)
+11. [Longest Palindrome](https://github.com/tanuarta/leet/blob/master/easy/longest_palindrome.py) - [LeetCode](https://leetcode.com/problems/longest-palindrome/submissions/899672149/)
 
 
 ## Medium
 1. [Remove Nth Node From End of List](https://github.com/tanuarta/leet/blob/master/medium/remove_nth_node.py) - [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/885600309/)
 2. [Longest Substring Without Repeating Characters](https://github.com/tanuarta/leet/blob/master/medium/longest_substring.py) - [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/893149354/)
+3. [Linked List Cycle II](https://github.com/tanuarta/leet/blob/master/medium/list_cycle.py) - [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/submissions/899682205/)
