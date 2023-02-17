@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/longest-substring-without-repeating-characters
+# https://leetcode.com/problems/two-sum
 # 56ms Runtime, 14mb Memory
 # Time Complexity = O(nlogn)
 
