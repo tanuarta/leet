@@ -1,5 +1,6 @@
 # Compilation of Leetcode problems that I have solved
 
+LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherwise you can view the problem from the same link :)
 ## Easy
 
 1. [Two Sum](https://github.com/tanuarta/leet/blob/master/easy/twosum.py) - [LeetCode](https://leetcode.com/problems/two-sum/submissions/876773664/)
