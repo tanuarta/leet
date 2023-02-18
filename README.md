@@ -14,6 +14,8 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 9. [Middle of the Linked List](https://github.com/tanuarta/leet/blob/master/easy/middle_list.py) - [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/899681844/)
 10. [Best Time to Buy and Sell Stock](https://github.com/tanuarta/leet/blob/master/easy/buy_sell.py) - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/899661686/)
 11. [Longest Palindrome](https://github.com/tanuarta/leet/blob/master/easy/longest_palindrome.py) - [LeetCode](https://leetcode.com/problems/longest-palindrome/submissions/899672149/)
+12. [Binary Search](https://github.com/tanuarta/leet/blob/master/easy/binary_search.py) - [LeetCode](https://leetcode.com/problems/binary-search/submissions/900143690)
+13. [First Bad Version](https://github.com/tanuarta/leet/blob/master/easy/first_bad.py) [LeetCode](https://leetcode.com/problems/first-bad-version)
 
 
 ## Medium
