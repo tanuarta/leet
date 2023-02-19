@@ -15,10 +15,12 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 10. [Best Time to Buy and Sell Stock](https://github.com/tanuarta/leet/blob/master/easy/buy_sell.py) - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/899661686/)
 11. [Longest Palindrome](https://github.com/tanuarta/leet/blob/master/easy/longest_palindrome.py) - [LeetCode](https://leetcode.com/problems/longest-palindrome/submissions/899672149/)
 12. [Binary Search](https://github.com/tanuarta/leet/blob/master/easy/binary_search.py) - [LeetCode](https://leetcode.com/problems/binary-search/submissions/900143690)
-13. [First Bad Version](https://github.com/tanuarta/leet/blob/master/easy/first_bad.py) [LeetCode](https://leetcode.com/problems/first-bad-version)
+13. [First Bad Version](https://github.com/tanuarta/leet/blob/master/easy/first_bad.py) - [LeetCode](https://leetcode.com/problems/first-bad-version)
 
 
 ## Medium
 1. [Remove Nth Node From End of List](https://github.com/tanuarta/leet/blob/master/medium/remove_nth_node.py) - [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/885600309/)
 2. [Longest Substring Without Repeating Characters](https://github.com/tanuarta/leet/blob/master/medium/longest_substring.py) - [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/893149354/)
 3. [Linked List Cycle II](https://github.com/tanuarta/leet/blob/master/medium/list_cycle.py) - [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/submissions/899682205/)
+4. [Validate Binary Search Tree](https://github.com/tanuarta/leet/blob/master/medium/validate_binary_tree.py) - [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/submissions/900877750)
+5. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/tanuarta/leet/blob/master/medium/lca_bintree.py) - [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/900882700)
