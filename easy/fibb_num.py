@@ -17,3 +17,22 @@ def main():
 
 if __name__ == "__main__":
   main()
+  
+# Came back after climbing stairs
+# Improved version
+
+numDict = {}
+
+def fibImproved(n):
+  if n == 1:
+    return 1
+  if n == 0:
+    return 0
+    
+  if n in numDict:
+    sum = numDict[n]
+  else:
+    sum = fib(n - 1) + fib(n - 2)
+    numDict[n] = sum
+  
+  return sum

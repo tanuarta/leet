@@ -18,6 +18,7 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 13. [First Bad Version](https://github.com/tanuarta/leet/blob/master/easy/first_bad.py) - [LeetCode](https://leetcode.com/problems/first-bad-version)
 14. [Flood Fill](https://github.com/tanuarta/leet/blob/master/easy/flood_fill.py) = [LeetCode](https://leetcode.com/problems/flood-fill/submissions/901935224)
 15. [Fibonacci Number](https://github.com/tanuarta/leet/blob/master/easy/fibb_num.py) = [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/902165959)
+16. [Climbing Stairs](https://github.com/tanuarta/leet/blob/master/easy/climbing_stairs.py) - [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/902200573)
 
 
 ## Medium
