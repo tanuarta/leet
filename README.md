@@ -16,8 +16,8 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 11. [Longest Palindrome](https://github.com/tanuarta/leet/blob/master/easy/longest_palindrome.py) - [LeetCode](https://leetcode.com/problems/longest-palindrome/submissions/899672149/)
 12. [Binary Search](https://github.com/tanuarta/leet/blob/master/easy/binary_search.py) - [LeetCode](https://leetcode.com/problems/binary-search/submissions/900143690)
 13. [First Bad Version](https://github.com/tanuarta/leet/blob/master/easy/first_bad.py) - [LeetCode](https://leetcode.com/problems/first-bad-version)
-14. [Flood Fill](https://github.com/tanuarta/leet/blob/master/easy/flood_fill.py) = [LeetCode](https://leetcode.com/problems/flood-fill/submissions/901935224)
-15. [Fibonacci Number](https://github.com/tanuarta/leet/blob/master/easy/fibb_num.py) = [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/902165959)
+14. [Flood Fill](https://github.com/tanuarta/leet/blob/master/easy/flood_fill.py) - [LeetCode](https://leetcode.com/problems/flood-fill/submissions/901935224)
+15. [Fibonacci Number](https://github.com/tanuarta/leet/blob/master/easy/fibb_num.py) - [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/902165959)
 16. [Climbing Stairs](https://github.com/tanuarta/leet/blob/master/easy/climbing_stairs.py) - [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/902200573)
 
 
@@ -27,3 +27,5 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 3. [Linked List Cycle II](https://github.com/tanuarta/leet/blob/master/medium/list_cycle.py) - [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/submissions/899682205/)
 4. [Validate Binary Search Tree](https://github.com/tanuarta/leet/blob/master/medium/validate_binary_tree.py) - [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/submissions/900877750)
 5. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/tanuarta/leet/blob/master/medium/lca_bintree.py) - [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/900882700)
+6. [Number of Islands](https://github.com/tanuarta/leet/blob/master/medium/num_islands.py) - [LeetCode](https://leetcode.com/problems/number-of-islands/submissions/902872101)
+7. [Unique Paths](https://github.com/tanuarta/leet/blob/master/medium/unique_path.py) - [LeetCode](https://leetcode.com/problems/unique-paths/submissions/902885084)

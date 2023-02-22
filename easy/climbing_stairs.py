@@ -10,6 +10,7 @@
 # Could not pass LeetCode tests, took too long.
 # Realised that recalculations were being done.
 # Used memoization
+# Time Complexity = O(n)
 
 numDict = {}
 

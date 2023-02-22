@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/fibonacci-number
-# O(n)
+# O(n^3)
 
 def fib(n):
   if n == 1:
@@ -20,6 +20,7 @@ if __name__ == "__main__":
   
 # Came back after climbing stairs
 # Improved version
+# Time Complexity = O(n)
 
 numDict = {}
 
