@@ -19,6 +19,7 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 14. [Flood Fill](https://github.com/tanuarta/leet/blob/master/easy/flood_fill.py) - [LeetCode](https://leetcode.com/problems/flood-fill/submissions/901935224)
 15. [Fibonacci Number](https://github.com/tanuarta/leet/blob/master/easy/fibb_num.py) - [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/902165959)
 16. [Climbing Stairs](https://github.com/tanuarta/leet/blob/master/easy/climbing_stairs.py) - [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/902200573)
+17. [Backspace String Compare](https://github.com/tanuarta/leet/blob/master/easy/backstring.py) - [LeetCode](https://leetcode.com/problems/backspace-string-compare/submissions/905617534)
 
 
 ## Medium
@@ -29,3 +30,4 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 5. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/tanuarta/leet/blob/master/medium/lca_bintree.py) - [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/900882700)
 6. [Number of Islands](https://github.com/tanuarta/leet/blob/master/medium/num_islands.py) - [LeetCode](https://leetcode.com/problems/number-of-islands/submissions/902872101)
 7. [Unique Paths](https://github.com/tanuarta/leet/blob/master/medium/unique_path.py) - [LeetCode](https://leetcode.com/problems/unique-paths/submissions/902885084)
+8. [Find All Anagrams in a String](https://github.com/tanuarta/leet/blob/master/medium/anagram.py) - [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/905635412)
