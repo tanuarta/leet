@@ -20,6 +20,7 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 15. [Fibonacci Number](https://github.com/tanuarta/leet/blob/master/easy/fibb_num.py) - [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/902165959)
 16. [Climbing Stairs](https://github.com/tanuarta/leet/blob/master/easy/climbing_stairs.py) - [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/902200573)
 17. [Backspace String Compare](https://github.com/tanuarta/leet/blob/master/easy/backstring.py) - [LeetCode](https://leetcode.com/problems/backspace-string-compare/submissions/905617534)
+18. [Last Stone Weight](https://github.com/tanuarta/leet/blob/master/easy/stone_weight.py) - [LeetCode](https://leetcode.com/problems/last-stone-weight/submissions/906396254/)
 
 
 ## Medium
