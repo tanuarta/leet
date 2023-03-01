@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/find-all-anagrams-in-a-string
-
+# Time complexity = O(n + p)
 
 def findAnagrams(s, p):
   start = 0

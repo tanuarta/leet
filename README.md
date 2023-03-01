@@ -32,3 +32,4 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 6. [Number of Islands](https://github.com/tanuarta/leet/blob/master/medium/num_islands.py) - [LeetCode](https://leetcode.com/problems/number-of-islands/submissions/902872101)
 7. [Unique Paths](https://github.com/tanuarta/leet/blob/master/medium/unique_path.py) - [LeetCode](https://leetcode.com/problems/unique-paths/submissions/902885084)
 8. [Find All Anagrams in a String](https://github.com/tanuarta/leet/blob/master/medium/anagram.py) - [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/905635412)
+9. [Longest Repeating Character Replacement](https://github.com/tanuarta/leet/blob/master/medium/repear_char.py) - [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/906922020)
