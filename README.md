@@ -34,3 +34,4 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 8. [Find All Anagrams in a String](https://github.com/tanuarta/leet/blob/master/medium/anagram.py) - [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/905635412)
 9. [Longest Repeating Character Replacement](https://github.com/tanuarta/leet/blob/master/medium/repear_char.py) - [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/906922020)
 10. [Decode String](https://github.com/tanuarta/leet/blob/master/medium/decode_str.py) - [LeetCode](https://leetcode.com/problems/decode-string/submissions/910082504/)
+11. [Top K Frequent Words](https://github.com/tanuarta/leet/blob/master/medium/top_k_words.py) - [LeetCode](https://leetcode.com/problems/top-k-frequent-words/submissions/912665292)
