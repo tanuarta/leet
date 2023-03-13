@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
-# O(n)
+# Time Complexity = O(n)
 
 def lowestCommonAncestor(root, p, q):
   if root == None:
