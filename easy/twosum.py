@@ -1,5 +1,4 @@
 # https://leetcode.com/problems/two-sum
-# 56ms Runtime, 14mb Memory
 # Time Complexity = O(nlogn)
 
 from math import ceil

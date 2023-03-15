@@ -21,6 +21,7 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 16. [Climbing Stairs](https://github.com/tanuarta/leet/blob/master/easy/climbing_stairs.py) - [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/902200573)
 17. [Backspace String Compare](https://github.com/tanuarta/leet/blob/master/easy/backstring.py) - [LeetCode](https://leetcode.com/problems/backspace-string-compare/submissions/905617534)
 18. [Last Stone Weight](https://github.com/tanuarta/leet/blob/master/easy/stone_weight.py) - [LeetCode](https://leetcode.com/problems/last-stone-weight/submissions/906396254/)
+19. [Happy Number](https://github.com/tanuarta/leet/blob/master/easy/happy_num.py) - [LeetCode](https://leetcode.com/problems/happy-number/submissions/915378905/)
 
 
 ## Medium
@@ -36,3 +37,4 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 10. [Decode String](https://github.com/tanuarta/leet/blob/master/medium/decode_str.py) - [LeetCode](https://leetcode.com/problems/decode-string/submissions/910082504/)
 11. [Top K Frequent Words](https://github.com/tanuarta/leet/blob/master/medium/top_k_words.py) - [LeetCode](https://leetcode.com/problems/top-k-frequent-words/submissions/912665292)
 12. [Add Two Numbers](https://github.com/tanuarta/leet/blob/master/medium/add_two.py) - [LeetCode](https://leetcode.com/problems/add-two-numbers/submissions/914100817)
+13. [Spiral Matrix](https://github.com/tanuarta/leet/blob/master/medium/spiral_matrix.py) - [LeetCode](https://leetcode.com/problems/spiral-matrix/submissions/915404264/)
