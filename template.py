@@ -1,9 +1,9 @@
 
 def func():
-  return
+  return True
 
 def main():
-  print()
+  print(func())
 
 if __name__ == "__main__":
   main()
