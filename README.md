@@ -23,6 +23,7 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 18. [Last Stone Weight](https://github.com/tanuarta/leet/blob/master/easy/stone_weight.py) - [LeetCode](https://leetcode.com/problems/last-stone-weight/submissions/906396254/)
 19. [Happy Number](https://github.com/tanuarta/leet/blob/master/easy/happy_num.py) - [LeetCode](https://leetcode.com/problems/happy-number/submissions/915378905/)
 20. [Longest Common Prefix](https://github.com/tanuarta/leet/blob/master/easy/long_pre.py) - [LeetCode](https://leetcode.com/problems/longest-common-prefix/submissions/919659061)
+21. [Invert Binary Tree](https://github.com/tanuarta/leet/blob/master/easy/invert_tree.py) - [LeetCode](https://leetcode.com/problems/invert-binary-tree/submissions/932394248)
 
 
 ## Medium

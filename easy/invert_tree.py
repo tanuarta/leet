@@ -1,29 +1,47 @@
+# https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+# Time Complexity = O(n)
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
 
+def invertTree(root):
+  if root == None:
+    return root
 
-def func(head):
-  return
+  invertTree(root.left)
+  invertTree(root.right)
+  
+  temp = root.right
+  root.right = root.left
+  root.left = temp
+  
+  return root
 
 def main():
-  head = Node(1)
-  node1 = Node(2)
-  node2 = Node(4)
+  head = TreeNode(2)
+  node1 = TreeNode(1)
+  node2 = TreeNode(3)
   
-  head.next = node1
-  node1.next = node2
+  head.left = node1
+  head.right = node2
   
-  res = func(head)
-  
-  
-  print('============== results =============')
-  while res != None:
-    print(res.val)
-    res = res.next
+  res = invertTree(head)
+  printTree(res)
 
+
+def printTree(head):
+  if head == None:
+    return
+  
+  printTree(head.left)
+  print(head.val)
+  printTree(head.right)
+  
+  return
+  
 
 if __name__ == "__main__":
   main()
