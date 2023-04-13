@@ -42,3 +42,4 @@ LeetCode hyperlinks lead to my submissions, must be logged in to view it, otherw
 13. [Spiral Matrix](https://github.com/tanuarta/leet/blob/master/medium/spiral_matrix.py) - [LeetCode](https://leetcode.com/problems/spiral-matrix/submissions/915404264/)
 14. [Where Will the Ball Fall](https://github.com/tanuarta/leet/blob/master/medium/where_fall.py) - [LeetCode](https://leetcode.com/problems/where-will-the-ball-fall/submissions/919691031/)
 15. [Find First and Last Position of Element in Sorted Array](https://github.com/tanuarta/leet/blob/master/medium/find_f&l.py) - [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/923537336)
+16. [Successful Pairs of Spells and Potions](https://github.com/tanuarta/leet/blob/master/medium/spells_potions.py) - [LeetCode](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/932809618/)
